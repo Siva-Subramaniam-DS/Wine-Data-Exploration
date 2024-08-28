@@ -1,5 +1,3 @@
-# Wine Dataset 🍷
-
 ## Table of Contents 📍
 - [Imports and Setup](#imports-and-setup)
 - [Set Kaggle Credentials and Download Data](#set-kaggle-credentials-and-download-data)
